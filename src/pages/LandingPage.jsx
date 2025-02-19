@@ -60,7 +60,7 @@ export const LandingPage = () => {
             </section>
 
             {/* section 2 */}
-            <section className="container flex flex-col gap-10 px-8">
+            <section id="pembahasan" className="container flex flex-col gap-10 px-8">
                 <p className="text-3xl ">
                     Pembahasan
                 </p>
@@ -77,7 +77,7 @@ export const LandingPage = () => {
             </section>
 
             {/* section 3 */}
-            <section className="container flex flex-col gap-10 px-8">
+            <section id="nonton_kuy" className="container flex flex-col gap-10 px-8">
                 <p className="text-3xl ">
                     Nonton Kuy
                 </p>
@@ -92,7 +92,7 @@ export const LandingPage = () => {
             </section>
 
             {/* section 4 */}
-            <section className="container flex flex-col gap-10 overflow-x-auto px-8">
+            <section id="merchandise" className="container flex flex-col gap-10 overflow-x-auto px-8">
                 <p className="text-3xl ">
                     Merchandise
                 </p>
@@ -113,7 +113,7 @@ export const LandingPage = () => {
             </section>
 
             {/* section 5 */}
-            <section className="container flex flex-col gap-10 overflow-x-auto px-8">
+            <section id="contact_me" className="container flex flex-col gap-10 overflow-x-auto px-8">
                 <p className="text-3xl ">
                     Contact Me
                 </p>
